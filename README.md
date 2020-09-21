@@ -21,3 +21,7 @@ The NDX red, used as the accent color, is **#ff002a**. On a light background, th
 
 ### On any other background
 ![NDX logo on a transparent background](https://abc.ndx.xyz/NDX-Branding-Assets/examples/any_bg.jpg)
+
+## Usage
+
+We freely permit the use of our branding and logo for the promotion of our own community. For usages that may not fit into this description, please contact us.
