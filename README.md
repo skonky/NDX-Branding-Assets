@@ -1,6 +1,10 @@
 # NDX Community Branding Assets
 This repository contains various all branding assets of NDX Community. Please read below for the usage etiquette.
 
+## Extensions
+
+The branding in this repository is usually shared in two extensions: .PNG for most usages, and .SVG for freely resizable purposes on any photo edition software of your choosing.
+
 ## Colors
 
 The NDX Community logo comes in two forms of two different color variants. The first brand identity is the 'NDX' logo, consisting of the italicized and capitalized letters NDX, with the distinguishing X, which is split on the upper-right tip to allow a red accent color. The second one is a simpler version consisting of just the aforementioned X.
@@ -9,11 +13,11 @@ The NDX red, used as the accent color, is **#ff002a**. On a light background, th
 
 ## Examples
 
-On a light background:
+### On a light background
 ![NDX logo on a light background](https://abc.ndx.xyz/NDX-Branding-Assets/examples/white_bg.jpg)
 
-On a dark background:
+### On a dark background
 ![NDX logo on a dark background](https://abc.ndx.xyz/NDX-Branding-Assets/examples/black_bg.jpg)
 
-On any other background:
+### On any other background
 ![NDX logo on a transparent background](https://abc.ndx.xyz/NDX-Branding-Assets/examples/any_bg.jpg)
