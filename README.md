@@ -1,5 +1,5 @@
 # NDX Community Branding Assets
-This repository contains various all branding assets of NDX Community. Please read below for the usage etiquette.
+This repository contains various all branding assets of [NDX Community](https://www.ndx.xyz/). Please read below for the usage etiquette.
 
 ## Extensions
 
