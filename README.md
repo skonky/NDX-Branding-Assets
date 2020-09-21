@@ -1,9 +1,5 @@
 # NDX Community Branding Assets
-This repository contains various branding assets of [NDX Community](https://www.ndx.xyz/). Please read below for the usage etiquette.
-
-## Extensions
-
-The branding in this repository is usually shared in two extensions: .PNG for most usages, and .SVG for freely resizable purposes on any photo edition software of your choosing.
+This repository contains various branding assets for [NDX Community](https://www.ndx.xyz/), made by [myself](https://github.com/skonky). The resources in this repository are usually shared in two extensions: PNG is preferable for most usages, but the vector files allow for resizing.
 
 ## Colors
 
@@ -11,17 +7,21 @@ The NDX Community logo comes in two forms of two different color variants. The f
 
 The NDX red, used as the accent color, is **#ff002a**. On a light background, the main text color — or the border color — is to be **#1a1a1a**, while on a dark background, **#f3f3f3** is to be used as the border color, and **#0c0c0c** as the text color.
 
-## Examples
+## Etiquette
 
-### On a light background
+The 'NDX' and 'X' versions of the logo may not be used interchangeably. In fact, the 'X' logo may only be used when the 'NDX' logo would otherwise be too small to be easily recognizable. For instance, the 'X' logo is used as the favicon on our website.
+
+### Examples
+
+#### Over a light background
 ![NDX logo on a light background](https://abc.ndx.xyz/NDX-Branding-Assets/examples/white_bg.jpg)
 
-### On a dark background
+#### Over a dark background
 ![NDX logo on a dark background](https://abc.ndx.xyz/NDX-Branding-Assets/examples/black_bg.jpg)
 
-### On any other background
+#### Over any other background
 ![NDX logo on a transparent background](https://abc.ndx.xyz/NDX-Branding-Assets/examples/any_bg.jpg)
 
-## Usage
+## Licence
 
 We freely permit the use of our branding and logo for the promotion of our own community. For usages that may not fit into this description, please contact us.
