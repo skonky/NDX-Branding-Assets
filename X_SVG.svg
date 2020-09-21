@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="875" height="875" viewBox="0 0 875 875">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1a1a1a;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #ff002a;
+      }
+
+      .cls-3 {
+        fill: #f3f3f3;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M471.937,120.2h-273.6L298.83,414.707,2.637,754.8h316.35l69.35-81.7,26.6,81.7h275.5c-35.09-101.917-105.273-305.749-105.273-305.749L872.383,121.374l-313.136-.017L497.2,193.578S480.359,144.659,471.937,120.2Z"/>
+  <path id="NDX_copy_2" data-name="NDX copy 2" class="cls-2" d="M556.277,368.149L705.963,196.985h-111.6l-69.842,80.35Z"/>
+  <path id="NDX_copy" data-name="NDX copy" class="cls-3" d="M583.725,678.44h-111.6L417.753,521.3,283.72,678.44h-113.5L386.8,432.2,304.482,196.985h113.5Z"/>
+</svg>
