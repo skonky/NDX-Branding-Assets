@@ -22,6 +22,9 @@ The 'NDX' and 'X' versions of the logo may not be used interchangeably. In fact,
 #### Over any other background
 ![NDX logo on a transparent background](https://abc.ndx.xyz/NDX-Branding-Assets/examples/any_bg.jpg)
 
+#### As a small icon anywhere
+![NDX logo on a transparent background](https://abc.ndx.xyz/NDX-Branding-Assets/examples/x_icon.jpg)
+
 ## Licence
 
 We freely permit the use of our branding and logo for the promotion of our own community. For usages that may not fit into this description, please contact us.
