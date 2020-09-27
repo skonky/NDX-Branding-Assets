@@ -1,7 +1,7 @@
 # NDX Community Branding Assets
 This repository contains various branding assets for [NDX Community](https://www.ndx.xyz/), made by [myself](https://github.com/skonky). The resources in this repository are usually shared in two extensions: .PNG is preferable for most usages, but the vector files (.SVG) allow for resizing.
 
-[**Download all branding files (.ZIP)**](https://github.com/skonky/NDX-Branding-Assets/archive/master.zip)
+Download: [**Click here (.ZIP)**](https://github.com/skonky/NDX-Branding-Assets/archive/master.zip)
 
 ## Colors
 
