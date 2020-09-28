@@ -1,4 +1,8 @@
 # NDX Community Branding Assets
+
+[![License](https://img.shields.io/github/license/skonky/NDX-Branding-Assets.svg)](https://github.com/skonky/NDX-Branding-Assets/blob/master/LICENSE)
+[![Discord](https://discord.com/api/guilds/354488037880758273/widget.png)](https://go.ndx.xyz/discord)
+
 This repository contains various branding assets for [NDX Community](https://www.ndx.xyz/), made by [myself](https://github.com/skonky). The resources in this repository are usually shared in two extensions: .PNG is preferable for most usages, but the vector files (.SVG) allow for resizing.
 
 Download: [**Click here (.ZIP)**](https://github.com/skonky/NDX-Branding-Assets/archive/master.zip)
