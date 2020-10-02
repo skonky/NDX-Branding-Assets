@@ -17,6 +17,8 @@ The NDX red, used as the accent color, is **#ff002a**. On a light background, th
 
 The 'NDX' and 'X' versions of the logo may not be used interchangeably. In fact, the 'X' logo may only be used when the 'NDX' logo would otherwise be too small to be easily recognizable. For instance, the 'X' logo is used as the favicon on our website.
 
+The 'NDX' logos are provided in two colors and a version with a border. Feel free to use the one that feels more appropriate depending on the background and the logo's surroundings.
+
 ### Examples
 
 #### Over a light background
@@ -25,7 +27,7 @@ The 'NDX' and 'X' versions of the logo may not be used interchangeably. In fact,
 #### Over a dark background
 ![NDX logo on a dark background](https://abc.ndx.xyz/NDX-Branding-Assets/examples/black_bg.jpg)
 
-#### Over any other background
+#### Over any multicolored background
 ![NDX logo on a transparent background](https://abc.ndx.xyz/NDX-Branding-Assets/examples/any_bg.jpg)
 
 #### As a small icon anywhere
